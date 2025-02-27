@@ -10,3 +10,4 @@ jobs:
         run: |
           echo "Done - bye!"
           echo "bye - bye!"
+          echo "bye bye bye!"
